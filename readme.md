@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=designbytorres&label=Profile%20views&color=0e75b6&style=flat" alt="designbytorres" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=designbytorres" alt="designbytorres" /></a> </p>
 
 - 🔭 I’m currently working on [Custom List (Local Storage)](https://designsbytorres.com/customList/)
 
